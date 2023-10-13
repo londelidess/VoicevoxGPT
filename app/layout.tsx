@@ -22,7 +22,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
           <footer className="py-5 border-t-2 border-gray-300 #D1D5DB">
     <div className="text-center text-sm mb-3">
-        <h4>Copyright © All rights reserved | VOICEVOX:ずんだもん
+        <h4>Copyright © All rights reserved | VOICEVOX:
+          <a href="https://voicevox.hiroshiba.jp/" target="_blank" rel="noopener noreferrer">ずんだもん</a>
         <br />
         2023 | Coded by Makoto Doi</h4>
     </div>

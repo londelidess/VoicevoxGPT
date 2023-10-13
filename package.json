@@ -1,5 +1,5 @@
 {
-  "name": "voicevox-chat",
+  "name": "nextjs-voicevox-tutorial",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,26 +10,24 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
-    "axios": "^1.5.1",
+    "@types/node": "20.1.7",
+    "@types/react": "18.2.6",
+    "@types/react-dom": "18.2.4",
+    "autoprefixer": "10.4.14",
+    "axios": "^1.4.0",
+    "eslint": "8.40.0",
+    "eslint-config-next": "13.4.2",
     "gpt3-tokenizer": "^1.1.5",
-    "gsap": "^3.12.2",
-    "next": "13.5.4",
-    "openai": "^4.12.1",
-    "react": "^18",
-    "react-dom": "^18",
+    "gsap": "^3.11.5",
+    "next": "13.4.2",
+    "openai": "^3.2.1",
+    "postcss": "8.4.23",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
     "react-icons": "^4.11.0",
-    "react-select": "^5.7.7",
-    "react-use": "^17.4.0"
-  },
-  "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "autoprefixer": "^10",
-    "eslint": "^8",
-    "eslint-config-next": "13.5.4",
-    "postcss": "^8",
-    "tailwindcss": "^3",
-    "typescript": "^5"
+    "react-select": "^5.7.3",
+    "react-use": "^17.4.0",
+    "tailwindcss": "3.3.2",
+    "typescript": "5.0.4"
   }
 }
